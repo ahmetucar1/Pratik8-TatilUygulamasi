@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pratik9-TatilUygulamasi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad325fa096787553029b7b45672b15fd587f177")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5014b8d3a81058e503fdda79300f712df2a222d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pratik9-TatilUygulamasi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pratik9-TatilUygulamasi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
