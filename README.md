@@ -14,17 +14,23 @@ Kişi Sayısı:
 Kullanıcı, tatil planını kaç kişi için yapmak istediğini belirtir.
 Ulaşım Tercihi:
 
+
 Kara yolu (kişi başı 1500 TL) veya hava yolu (kişi başı 4000 TL) seçeneklerinden biri seçilir.
 Toplam Maliyet Hesaplama:
 
+
 Lokasyon maliyeti ve ulaşım tercihi dikkate alınarak toplam tatil maliyeti hesaplanır ve ekrana yazdırılır.
 Devam Seçeneği:
+
+
 
 Kullanıcı, başka bir tatil planı yapmak isteyip istemediğini belirtebilir.
 "Hayır" seçeneği ile uygulama sonlanır.
 🛠️ Kullanılan Teknolojiler
 C#: Uygulamanın temel programlama dili.
 .NET Core: Konsol uygulaması geliştirme altyapısı.
+
+
 📋 Özellikler
 Esnek Tatil Planlama: Birden fazla tatil planı oluşturabilme.
 Kullanıcı Dostu: Hatalı girişlerde kullanıcıyı yönlendiren mesajlar.
