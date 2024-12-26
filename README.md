@@ -35,7 +35,7 @@ Proje Dosyalarını İndirin:
 
 bash
 Kodu kopyala
-git clone https://github.com/username/TravelCompanionApp.git
+git clone https://github.com/ahmetucar1/TravelCompanionApp.git
 cd TravelCompanionApp
 Uygulamayı Derleyin ve Çalıştırın:
 
